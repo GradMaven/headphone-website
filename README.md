@@ -34,7 +34,7 @@ This is a simple HTML and CSS template for an e commerce online platform called 
 
 ## Demo
 
-[ ](#) _(Placeholder for live demo URL)_
+[http://127.0.0.1:5501/ ](#) _(Placeholder for live demo URL)_
 
 ## License
 
